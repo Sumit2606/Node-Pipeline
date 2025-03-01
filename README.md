@@ -2,7 +2,7 @@ Sumit Pedgulwar (https://github.com/sumit2606)
 
 To create a nodejs project in jenkins with pulling the code from git into the deployment server, building, testing, and deploying it on the deployment server 
 
-we installed nodejs tool and given a name to it we have to check it bcoz we have to write it in the script
+we installed nodejs tool and given a name to it we have to check it because we have to write it in the script
 Dashboard ---- Manage Jebkins ----- Tools ------- Check the name of Nodejs 
 
 then we have to install the plugin for doing ssh into the live server
